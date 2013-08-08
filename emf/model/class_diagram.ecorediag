@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_tt3AUQBwEeOnJpdDnYGPFw" type="EcoreTools" name="whoowesme" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_CimakABxEeOnJpdDnYGPFw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_Cio20ABxEeOnJpdDnYGPFw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_CiqE8ABxEeOnJpdDnYGPFw" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_foPhwAB2EeOnJpdDnYGPFw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="whoowesme.ecore#//debtors/client"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_foPhwQB2EeOnJpdDnYGPFw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_l8lNoAB2EeOnJpdDnYGPFw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="whoowesme.ecore#//debtors/debit"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_l8lNoQB2EeOnJpdDnYGPFw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_rjiPEAB2EeOnJpdDnYGPFw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="whoowesme.ecore#//debtors/credit"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_rjiPEQB2EeOnJpdDnYGPFw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_vvjHEAB3EeOnJpdDnYGPFw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="whoowesme.ecore#//debtors/date"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_vvjHEQB3EeOnJpdDnYGPFw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_CiqE8QBxEeOnJpdDnYGPFw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_CiqE8gBxEeOnJpdDnYGPFw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_CiqsAABxEeOnJpdDnYGPFw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_Cir6IABxEeOnJpdDnYGPFw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_Cir6IQBxEeOnJpdDnYGPFw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Cir6IgBxEeOnJpdDnYGPFw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Cir6IwBxEeOnJpdDnYGPFw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_CimakQBxEeOnJpdDnYGPFw" fontColor="4210752" fontName="Sans" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="whoowesme.ecore#//debtors"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CimakgBxEeOnJpdDnYGPFw" x="65" y="169"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_EkD8AABxEeOnJpdDnYGPFw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_EkFxMABxEeOnJpdDnYGPFw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_EkGYQABxEeOnJpdDnYGPFw" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_2EEjsAB4EeOnJpdDnYGPFw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="whoowesme.ecore#//client/id"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_2EEjsQB4EeOnJpdDnYGPFw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_y_d1IAB2EeOnJpdDnYGPFw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="whoowesme.ecore#//client/name"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_y_d1IQB2EeOnJpdDnYGPFw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_EkGYQQBxEeOnJpdDnYGPFw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_EkGYQgBxEeOnJpdDnYGPFw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_EkGYQwBxEeOnJpdDnYGPFw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_EkG_UABxEeOnJpdDnYGPFw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_EkG_UQBxEeOnJpdDnYGPFw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_EkG_UgBxEeOnJpdDnYGPFw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_EkG_UwBxEeOnJpdDnYGPFw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_EkD8AQBxEeOnJpdDnYGPFw" fontColor="4210752" fontName="Sans" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="whoowesme.ecore#//client"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EkD8AgBxEeOnJpdDnYGPFw" x="286" y="39"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_tt4OcABwEeOnJpdDnYGPFw"/>
+  <element xmi:type="ecore:EPackage" href="whoowesme.ecore#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_6FDs4AB4EeOnJpdDnYGPFw" type="3002" source="_CimakABxEeOnJpdDnYGPFw" target="_EkD8AABxEeOnJpdDnYGPFw">
+    <children xmi:type="notation:Node" xmi:id="_6FET8AB4EeOnJpdDnYGPFw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_6FET8QB4EeOnJpdDnYGPFw" x="-42" y="-30"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_6FET8gB4EeOnJpdDnYGPFw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_6FET8wB4EeOnJpdDnYGPFw" x="-68" y="26"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_6FDs4QB4EeOnJpdDnYGPFw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_6FDs4gB4EeOnJpdDnYGPFw" fontColor="4210752" fontName="Sans" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="whoowesme.ecore#//debtors/clients"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6FDs4wB4EeOnJpdDnYGPFw" points="[93, 0, -80, 121]$[108, 0, -65, 121]$[95, -121, -78, 0]$[108, -121, -65, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6FJMcAB4EeOnJpdDnYGPFw" id="(0.4437869822485207,0.23711340206185566)"/>
+  </edges>
+</notation:Diagram>
